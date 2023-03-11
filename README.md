@@ -8,4 +8,4 @@ Note:
 
 1.Facebook movement data used in our study are not public available. If you are interested in the movement data or any other data from facebook, please refer to https://dataforgood.facebook.com/
 
-2.Our analysis was mainly conducted by using GTWR add-in in ArcMap. The code file mainly includes code for line charts of coefficint result of GTWR and K-means cluster analysis.
+2.Our analysis was mainly conducted by using GTWR add-in in ArcMap. The code file (GTWR_result) mainly includes code for line charts of coefficint result of GTWR and K-means cluster analysis.
